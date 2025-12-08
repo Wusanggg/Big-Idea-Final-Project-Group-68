@@ -97,7 +97,7 @@ Typical ways to work with this project:
 
 1. **Clone the repository**
 
-   git clone https://github.com/your-username/Big-Idea-Final-Project-Group-68.git
+   git clone https://github.com/Wusanggg/Big-Idea-Final-Project-Group-68.git  
    cd Big-Idea-Final-Project-Group-68
 
 
