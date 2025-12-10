@@ -14,7 +14,7 @@ This repository contains the final project for **Group 68**
 ## Project Overview
 
 This project builds a **“Bestness” score for Pittsburgh neighborhoods** using open data.  
-We focus on three infrastructure-related dimensions:
+We evaluate scores across neighborhoods by their **convenience**. We focus on three infrastructure-related dimensions:
 
 1. **Smart trash coverage** – how well a neighborhood is served by smart trash containers.  
 2. **Parking** – overall parking convenience based on a parking score.  
